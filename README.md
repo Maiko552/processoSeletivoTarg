@@ -1,1 +1,1 @@
-# Repositório onde me dediquei a conclui tasks do processo seletivo
+# Repositório onde me dediquei a concluir tasks do processo seletivo
